@@ -1,0 +1,7 @@
+{
+  "description" : "Test offer",
+  "engine": "DIESEL",
+  "mileage": 10000,
+  "price": 1200,
+  "transmission": "MANUAL"
+}
